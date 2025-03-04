@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+}
+
+
+#home {
+    background-image: url("seventrainnight.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#stores {
+    background-image: url("patelbrothers.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#center {
+    margin-top: 250px;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+    color: orange;
+}
+
+main {
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+p {
+    text-indent: 30px;
+    text-align: center;
+}
